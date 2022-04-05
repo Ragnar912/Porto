@@ -1,0 +1,11 @@
+body {
+  background-image: url(https://img.freepik.com/free-photo/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers_181624-9331.jpg);
+ 
+  padding: 12px 20px;
+  border-radius: 4px;
+  border: 2px solid rgba(255, 0, 0, 0.815);
+  background-color: #f5f8f246;
+  color: rgb(253, 252, 252);
+  border: 3px solid #555;
+  width:300px; height:600px;
+}
